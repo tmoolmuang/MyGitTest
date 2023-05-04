@@ -5,6 +5,4 @@
     <h4>-- Mod 1</h4>
     <h4>-- Mod 2</h4>
     <h4>Place for Branch</h4>
-    <h4></h4>
-    <h4></h4>
 </asp:Content>
