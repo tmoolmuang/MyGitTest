@@ -18,6 +18,7 @@
     End Sub
 
     Private Sub LocalSub()
+        'mod A
         Return
     End Sub
 End Class
