@@ -11,7 +11,8 @@
     End Sub
 
     Private Sub MasterSub1()
-        'modified MasterSub1
+        'modified MasterSub1 - A
+        'modified MasterSub1 - B
         Return
     End Sub
 End Class
