@@ -3,6 +3,7 @@
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         'comment A
+        'comment B
     End Sub
 
 End Class
