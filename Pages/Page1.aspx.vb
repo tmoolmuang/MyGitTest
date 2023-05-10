@@ -21,4 +21,8 @@
         'mod A
         Return
     End Sub
+
+    Private Sub LocalSub()
+        Return
+    End Sub
 End Class
