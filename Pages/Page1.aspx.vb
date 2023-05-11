@@ -5,4 +5,8 @@
 
     End Sub
 
+    Private Function zyber1() As Boolean
+        Return True
+    End Function
+
 End Class
