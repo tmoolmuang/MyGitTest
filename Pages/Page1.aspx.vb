@@ -9,4 +9,8 @@
         Return True
     End Function
 
+    Private Function f2() As Boolean
+        Return True
+    End Function
+
 End Class
