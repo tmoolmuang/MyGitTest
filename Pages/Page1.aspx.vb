@@ -9,4 +9,8 @@
         Return True
     End Function
 
+    Private Function zyber2() As Boolean
+        Return True
+    End Function
+
 End Class
