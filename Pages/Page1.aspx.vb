@@ -6,6 +6,7 @@
     End Sub
 
     Private Function func1() As Boolean
+        Dim q As Integer = 2
         Return True
     End Function
 
