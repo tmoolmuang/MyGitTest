@@ -3,11 +3,11 @@
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         'add some comment
-        callSub1()
+        Dim a As Boolean = func1()
     End Sub
 
-    Private Sub callSub1()
-        Return
-    End Sub
+    Private Function func1() As Boolean
+        Return True
+    End Function
 
 End Class
