@@ -8,6 +8,7 @@
 
     Private Function func1() As Boolean
         Dim q As Integer = 2
+        Dim qq As Integer = 22
         Return True
     End Function
 
