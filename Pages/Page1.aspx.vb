@@ -5,20 +5,4 @@
 
     End Sub
 
-    Private Function zyber1() As Boolean
-        Return True
-    End Function
-
-    Private Function zyber2() As Boolean
-        Return True
-    End Function
-
-    Private Function f1() As Boolean
-        Return True
-    End Function
-
-    Private Function f2() As Boolean
-        Return True
-    End Function
-
 End Class
