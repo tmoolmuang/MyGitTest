@@ -5,4 +5,23 @@
 
     End Sub
 
+    Private Function f1() As Boolean
+        Return True
+    End Function
+
+    Private Function f2() As Boolean
+        Return True
+    End Function
+
+    Private Function f3() As Boolean
+        Return True
+    End Function
+
+    Private Function f4() As Boolean
+        Return True
+    End Function
+
+    Private Function f5() As Boolean
+        Return True
+    End Function
 End Class
