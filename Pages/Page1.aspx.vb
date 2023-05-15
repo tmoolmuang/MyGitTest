@@ -9,6 +9,11 @@
         Return True
     End Function
 
+    Private Function z2() As Boolean
+        Return True
+    End Function
+
+
     End Sub
 
     Private Function d1() As Boolean
