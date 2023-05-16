@@ -17,6 +17,10 @@
         Return True
     End Function
 
+    Private Function z3() As Boolean
+        Return True
+    End Function
+
     Private Function dev2() As Boolean
         Return True
     End Function
