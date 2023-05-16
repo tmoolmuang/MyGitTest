@@ -17,4 +17,8 @@
         Return True
     End Function
 
+    Private Function dev2() As Boolean
+        Return True
+    End Function
+
 End Class
