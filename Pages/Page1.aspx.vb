@@ -10,5 +10,7 @@
     Private Function d2() As Boolean
         Return True
     End Function
-
+    Private Function d3() As Boolean
+        Return True
+    End Function
 End Class
