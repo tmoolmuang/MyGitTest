@@ -5,4 +5,7 @@
 
     End Sub
 
+    Private Function Z1() As Boolean
+        Return True
+    End Function
 End Class
