@@ -7,4 +7,8 @@
     Private Function TM1() As Boolean
         Return True
     End Function
+
+    Private Function TM2() As Boolean
+        Return True
+    End Function
 End Class
