@@ -8,5 +8,9 @@
     Private Function Z1() As Boolean
         Return True
     End Function
+    
+    Private Function Z2() As Boolean
+        Return True
+    End Function
 
 End Class
