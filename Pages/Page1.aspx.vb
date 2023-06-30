@@ -5,4 +5,15 @@
 
     End Sub
 
+    Private Function T1() As Boolean
+        Return True
+    End Function
+
+    Private Function T2() As Boolean
+        Return True
+    End Function
+
+    Private Function T3() As Boolean
+        Return True
+    End Function
 End Class
